@@ -4,21 +4,22 @@ A curated list of automated machine learning papers, articles, tutorials, slides
 
 # Introduction to AutoML
 Machine learning (ML) has achieved considerable successes in recent years and an ever-growing number of disciplines rely on it. However, this success crucially relies on human machine learning experts to perform the following tasks:
-+ Preprocess the data
-+ Select appropriate features
-+ Select an appropriate model family
-+ Optimize model hyperparameters
-+ Postprocess machine learning models
-+ Critically analyze the results obtained.
++ Preprocess the data:数据的预处理
++ Select appropriate features：选择合适的特征
++ Select an appropriate model family：选择适合的模型
++ Optimize model hyperparameters：模型超参数优化
++ Postprocess machine learning models：后处理机器学习模型
++ Critically analyze the results obtained.：对所得结果进行了严格的分析。
 
 As the complexity of these tasks is often beyond non-ML-experts, the rapid growth of machine learning applications has created a demand for off-the-shelf machine learning methods that can be used easily and without expert knowledge. We call the resulting research area that targets progressive automation of machine learning *AutoML*.
+由于这些任务的复杂性往往超出非 ML 专家的要求, 机器学习应用程序的快速增长创造了一种对现成的机器学习方法的需求, 它可以很容易地使用, 而且没有专家知识。我们称所产生的研究领域的目标是逐步自动化的机器学习 * AutoML *。
 
 AutoML draws on many disciplines of machine learning, prominently including
-+ Bayesian optimization
-+ Regression models for structured data and big data
-+ Meta learning
-+ Transfer learning, and
-+ Combinatorial optimization.
++ Bayesian optimization：贝叶斯优化
++ Regression models for structured data and big data：结构化数据和大数据的回归模型
++ Meta learning：元学习
++ Transfer learning：迁移学习
++ Combinatorial optimization：组合优化
 
 # Table of Contents
 
